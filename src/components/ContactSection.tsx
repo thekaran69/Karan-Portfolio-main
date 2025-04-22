@@ -185,7 +185,7 @@ export function ContactSection() {
               </Card>
             ))}
             
-            <Card className="mt-8">
+            {/* <Card className="mt-8">
               <CardHeader>
                 <CardTitle>Working Hours</CardTitle>
               </CardHeader>
@@ -203,7 +203,7 @@ export function ContactSection() {
                   <span>Closed</span>
                 </div>
               </CardContent>
-            </Card>
+            </Card> */}
           </div>
         </div>
       </div>
