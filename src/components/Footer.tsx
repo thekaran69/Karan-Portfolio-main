@@ -64,14 +64,14 @@ export function Footer() {
             <a href="#home" className="text-sm text-muted-foreground hover:text-primary transition-colors">
               Home
             </a>
+            <a href="#about" className="text-sm text-muted-foreground hover:text-primary transition-colors">
+              About
+            </a>
             <a href="#projects" className="text-sm text-muted-foreground hover:text-primary transition-colors">
               Projects
             </a>
             <a href="#tools" className="text-sm text-muted-foreground hover:text-primary transition-colors">
               Tools
-            </a>
-            <a href="#about" className="text-sm text-muted-foreground hover:text-primary transition-colors">
-              About
             </a>
             <a href="#contact" className="text-sm text-muted-foreground hover:text-primary transition-colors">
               Contact
