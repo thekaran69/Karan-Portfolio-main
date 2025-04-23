@@ -9,9 +9,11 @@ export function AboutSection() {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
           <div>
             <img 
-              src="/karanImg2.jpg"
+              src="/karanImg.jpg"
               alt="Developer Portrait" 
-              className="rounded-2xl shadow-lg w-full h-auto max-w-md mx-auto"
+            //   className="rounded-2xl shadow-lg w-full h-auto max-w-md mx-auto"
+            // />
+            className="rounded-2xl shadow-lg w-full h-75 max-w-sm mx-auto" // Adjusted height to h-48
             />
           </div>
           
