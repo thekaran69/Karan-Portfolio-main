@@ -46,7 +46,7 @@ export function ToolsSection() {
     { id: "frontend", name: "Frontend" },
     { id: "backend", name: "Backend" },
     { id: "database", name: "Database" },
-    { id: "devops", name: "DevOps" },
+    { id: "devops", name: "Tools" },
     // { id: "design", name: "Design" },
   ];
   
